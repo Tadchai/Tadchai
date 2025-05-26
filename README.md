@@ -1,4 +1,4 @@
-👋 Hi, I'm Tadchai!
+## 👋 Hi, I'm Tadchai!
 
 🎓 I'm a recent graduate in Computer Engineering with a passion for building clean and scalable web applications.  
 💻 I focus mainly on backend development and API design, with experience using technologies like C#, ASP.NET, Node.js, and MySQL.  
